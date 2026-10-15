@@ -1,0 +1,4 @@
+# BombLobbers starting loadout. TNT is replenished separately, one every 8 seconds up to 3.
+items:
+  - "SNOWBALL:32"
+  - "TNT"

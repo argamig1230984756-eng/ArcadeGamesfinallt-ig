@@ -1,0 +1,9 @@
+# Mini Walls loadout (armor remains team-coloured). Edit and run /arcade reload.
+items:
+  - "STONE_SWORD"
+  - "BOW"
+  - "ARROW:32"
+  - "STONE_PICKAXE"
+  - "COBBLESTONE:64"
+  - "COOKED_BEEF:16"
+  - "GOLDEN_APPLE:2"

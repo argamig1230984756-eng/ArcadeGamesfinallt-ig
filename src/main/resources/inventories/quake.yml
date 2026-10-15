@@ -1,0 +1,4 @@
+# Quake loadout. Edit and run /arcade reload.
+items:
+  - "BOW"
+  - "ARROW:64"
